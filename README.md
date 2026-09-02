@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31742692/README.md)
 # E-commerce Automation — Portfolio Samples
 
 Three standalone scripts built to demonstrate the kind of small,
